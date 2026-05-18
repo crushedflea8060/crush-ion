@@ -51,6 +51,6 @@ git+https://github.com/d9pouces/django-pipeline.git@b3fa383ba6563fa800c191328079
 # Not direct dependencies, but need to be bumped for some reason
 # (for example, bug or security fixes)
 asgiref>=3.9.1
-pillow>=9.0.0
+pillow>=12.2.0
 tinycss2
 twisted>=21.7.0
