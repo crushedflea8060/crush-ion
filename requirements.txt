@@ -19,7 +19,7 @@ django-redis-sessions==0.6.2
 django-referrer-policy==1.0
 django-requestlogging-redux==1.2.1
 django-simple-history==3.10.1
-django-upgrade==1.25.0
+django-upgrade==1.30.0
 django-user-agents==0.4.0
 django-widget-tweaks==1.5.0
 djangorestframework==3.16.0
